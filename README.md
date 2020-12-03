@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm excited to have you at my GitHub!
 
-I am ***Abhishek Choudhury (@yesabhishek)***, I am a tech enthusiast , Python Developer and a full stack Web Developer !
+I am ***Abhishek Choudhury (@yesabhishek)***, I am a tech enthusiast who loves to code in Python and work as a Full Stack Developer !
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
 ***ME IN A NUTSHELL***
@@ -14,7 +14,8 @@ I love writing and breaking code , contributing to different projects and creati
  - :video_game: I love ***playing video games and cricket!***
  - :airplane: I love travel , food and adventure. ***I save money - I spend it on books and gadgets!***
  
- Feel free to look around my repos and do check out my LinkedIN profile (https://www.linkedin.com/in/yesabhishek/)
+  
+ Feel free to look around my repos and check my recent work😉
  
  
 
