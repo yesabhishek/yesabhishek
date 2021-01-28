@@ -4,7 +4,6 @@ I am ***Abhishek Choudhury (@yesabhishek)***, I am a tech enthusiast who loves t
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
 ***ME IN A NUTSHELL***
- - :computer: Have about 9 months work experience as a Data Engineer at ***Sears Holdings, Pune***. 
  - :mortar_board: Recently graduated Bachelor's Degree in ***Computer Science and Information Technology***.
  - :zap: I am more of a ***self-learner*** who loves learning things from the internet apart from the classroom.
  - :v:  I am ***super positive*** and I always look forward for new adventures around Tech.
