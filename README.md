@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **choudhuryabhishek76@gmail.com**
 
-- 📄 Know about me in a better way [https://profile.abhishekchoudhury.in/](https://profile.abhishekchoudhury.in/)
+- 📄 Know about me in a better way [https://www.abhishekchoudhury.in](https://www.abhishekchoudhury.in/)
 
 - ⚡ Fun fact **I think I am funny and can write good code.**
 
