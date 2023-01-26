@@ -6,7 +6,7 @@
   <tr>
     <td valign="top">
     <div>
-<a href="https://app.daily.dev/yesabhishek"><img src="https://github.com/yesabhishek/yesabhishek/blob/master/devcard.svg" width="1000" alt="Abhishek Choudhury's Dev Card"/></a>
+<a href="https://app.daily.dev/yesabhishek"><img src="https://api.daily.dev/devcards/69c662b684ab41ea9eaca22ae4bc561e.png?r=4ws" width="1000" alt="Abhishek Choudhury's Dev Card"/></a>
 
 <br>
 <br>
