@@ -1,4 +1,4 @@
-# Hello there! 👋 
+# Hello there! 👋🏼
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yesabhishek)](https://www.linkedin.com/in/yesabhishek)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yesabhishek)](https://github.com/yesabhishek)
@@ -23,13 +23,8 @@ Welcome to my GitHub profile! I'm Abhishek Choudhury, a problem solver passionat
 </div>  
 
 
-
-
-
-
-
 ## 📫 Get in Touch
 
-I'm always open to exciting opportunities, collaboration, or simply having a chat about technology and problem-solving. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-choudhury) or [email](mailto:abhishek@example.com).
+I'm always open to exciting opportunities, collaboration, or simply having a chat about technology and problem-solving. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yesabhishek) or [email](mailto:choudhuryabhishek76@gmail.com).
 
 Let's connect and make a difference through technology! 🌟
