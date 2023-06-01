@@ -7,13 +7,13 @@ Welcome to my GitHub profile! I'm Abhishek Choudhury, a problem solver passionat
 
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%" align="center">
-  <a href="#">
+  <a href="https://www.credly.com/badges/693c32ae-6cca-4f59-8d45-63a994e194c8/public_url">
     <img src="https://kvsxzxhselvfeyqrshan.supabase.co/storage/v1/object/public/assets/aws-certified-cloud-practitioner.png?t=2023-05-21T10%3A46%3A28.629Z"
-         width="250" alt="Abhishek Choudhury's Dev Card" />
+         width="250" alt="AWS Cloud Practitioner" />
    </a>
-  <a href="#">
+  <a href="https://www.credly.com/badges/7730e906-b429-4aff-9e1f-74d3080ebd24/public_url">
     <img src="https://kvsxzxhselvfeyqrshan.supabase.co/storage/v1/object/public/assets/aws-learning-cloud-essentials.png?t=2023-05-20T16%3A13%3A17.040Z"
-        width="250" alt="Abhishek Choudhury's Dev Card" />
+        width="250" alt="AWS Cloud Essential" />
    </a>
   <div>
        <br>
