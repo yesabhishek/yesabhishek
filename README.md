@@ -1,30 +1,66 @@
-# Hello there! 👋🏼
+```txt
+██   ██ ███████ ██      ██       ██████      ██     ██  ██████  ██████  ██      ██████  ██ 
+██   ██ ██      ██      ██      ██    ██     ██     ██ ██    ██ ██   ██ ██      ██   ██ ██ 
+███████ █████   ██      ██      ██    ██     ██  █  ██ ██    ██ ██████  ██      ██   ██ ██ 
+██   ██ ██      ██      ██      ██    ██     ██ ███ ██ ██    ██ ██   ██ ██      ██   ██    
+██   ██ ███████ ███████ ███████  ██████       ███ ███   ██████  ██   ██ ███████ ██████  ██ 
+```
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yesabhishek)](https://www.linkedin.com/in/yesabhishek)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yesabhishek)](https://github.com/yesabhishek)
+```console
+root@github:~$ whoami
+abhishek_choudhury
 
-Welcome to my GitHub profile! I'm Abhishek Choudhury, a problem solver passionate about leveraging technology to create innovative solutions. With over 4 years of professional experience, I have developed a strong foundation in software development and love to explore new technologies.
+root@github:~$ cat profile.txt
+┌──────────────────────────────┐
+│  Software Engineer           │
+│  Problem Solver              │
+│  AWS Certified               │
+└──────────────────────────────┘
 
+root@github:~$ get_social_links
+[INFO] Fetching social connections...
+├─🔗 LinkedIn: linkedin.com/in/yesabhishek
+├─🐱 GitHub: github.com/yesabhishek
+└─📧 Email: choudhuryabhishek76@gmail.com
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%" align="center">
-  <a href="https://www.credly.com/badges/693c32ae-6cca-4f59-8d45-63a994e194c8/public_url">
-    <img src="https://kvsxzxhselvfeyqrshan.supabase.co/storage/v1/object/public/assets/aws-certified-cloud-practitioner.png?t=2023-05-21T10%3A46%3A28.629Z"
-         width="250" alt="AWS Cloud Practitioner" />
-   </a>
-  <a href="https://www.credly.com/badges/7730e906-b429-4aff-9e1f-74d3080ebd24/public_url">
-    <img src="https://kvsxzxhselvfeyqrshan.supabase.co/storage/v1/object/public/assets/aws-learning-cloud-essentials.png?t=2023-05-20T16%3A13%3A17.040Z"
-        width="250" alt="AWS Cloud Essential" />
-   </a>
-  <div>
-       <br>
-  </div>
-  <a href="https://app.daily.dev/yesabhishek"><img src="https://api.daily.dev/devcards/69c662b684ab41ea9eaca22ae4bc561e.png" width="250" alt="Abhishek Choudhury's      Dev Card"/>
-  </a>
-</div>  
+root@github:~$ experience --format detailed
+[INFO] Loading professional experience...
+╔════════════════════════════════════╗
+║ Years of Experience: 4+            ║
+║ Focus: Software Development        ║
+║ Specialty: Cloud Solutions         ║
+╚════════════════════════════════════╝
 
+root@github:~$ list_certifications
+[INFO] Retrieving certifications...
+┌─ AWS Certified Cloud Practitioner
+└─ AWS Cloud Essentials
 
-## 📫 Get in Touch
+root@github:~$ show_dev_card --source daily.dev
+[INFO] Fetching developer card...
+┌──────────────────────────┐
+│                          │
+│   [Developer Card]       │
+│   Loading from:          │
+│   daily.dev/yesabhishek  │
+│                          │
+└──────────────────────────┘
 
-I'm always open to exciting opportunities, collaboration, or simply having a chat about technology and problem-solving. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yesabhishek) or [email](mailto:choudhuryabhishek76@gmail.com).
+root@github:~$ get_current_status
+[INFO] Checking current status...
+├─⚡ Status: Active
+├─🎯 Focus: Building scalable solutions
+└─📚 Learning: Always
 
-Let's connect and make a difference through technology! 🌟
+root@github:~$ contact --method preferred
+[INFO] Retrieving contact information...
+┌──────────────────────────────────────┐
+│ PRIMARY CONTACT                      │
+│ choudhuryabhishek76@gmail.com        │
+└──────────────────────────────────────┘
+
+root@github:~$ exit
+[INFO] Thank you for visiting my profile!
+[INFO] "Building the future through code"
+[Process completed]
+```
