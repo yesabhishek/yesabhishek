@@ -1,63 +1,76 @@
-# Abhishek Choudhury
+# Hi, I'm Abhishek Choudhury👋🏼
 
-Senior Software Engineer specializing in distributed systems, AI-driven platforms, and data engineering. Building scalable solutions that solve real-world problems at enterprise scale.
+I build production-grade AI systems with deep ownership across LLM orchestration, retrieval infrastructure, model serving, and scalable backend architecture. Over the last 5+ years, I have shipped multi-agent platforms, RAG-as-a-Service systems, fine-tuned model serving, and cloud-native backend platforms across pharmaceuticals, energy, SaaS, and developer tooling.
 
-## About
+Currently, I work on deep-research agents, healthcare SaaS platforms, event-driven AWS microservices, and evaluation workflows for retrieval quality, hallucination control, and latency-cost tradeoffs. I am most interested in tools that make engineering work faster: local-first context systems, practical CLIs, agent workflows, and AI-native backend infrastructure.
 
-I architect and build high-performance distributed systems with a focus on AI/ML integration, data pipelines, and cloud-native architectures. With over 5 years of experience shipping production-grade software for Fortune 100 companies and startups alike, I've led engineering teams and delivered platforms processing millions of transactions daily.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-121212?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-Currently working on healthcare SaaS platforms and agentic AI systems at ValueLabs, where I lead backend engineering initiatives for clients including Pfizer, Eli Lilly, Novartis and others.
+## Start Here
 
-## Technical Expertise
+- **[ContextPool](https://github.com/yesabhishek/context-pooling)** - local-first handoff packets and reusable context packs for AI coding agents.
+- **[pb](https://github.com/yesabhishek/pastebin-cli)** - GitHub-backed personal pastebin CLI with autosave, cache, image paste, and sync.
+- **[Cedric](https://github.com/yesabhishek/cedric)** - backend project generator for Django, FastAPI, and Flask.
+- **[Truth or Bluff](https://truthorbluff.stage4.xyz/)** - closed-source deep research agent for investigating claims with tool calls.
 
-**Languages & Frameworks**  
-Python, SQL | Django, FastAPI, Flask, PyTorch, PySpark, LangChain, LangGraph
+## Current Projects
 
-**Data & Cloud Infrastructure**  
-PostgreSQL, MongoDB, Cassandra, Redis, Snowflake, BigQuery, DuckDB | AWS, GCP, Docker, Kubernetes, Kafka, Airflow, DBT
+### AI + Agents
 
-**AI/ML & Specializations**  
-Generative AI, RAG Systems, Machine Learning, Vector Databases (PgVector, FAISS, Weaviate), OpenAI, Ollama
+- **[ContextPool](https://github.com/yesabhishek/context-pooling)** - reusable context packs for Codex, Claude, Cursor, and MCP-capable tools.
+- **[Truth or Bluff](https://truthorbluff.stage4.xyz/)** - closed-source claim investigation agent.
+- **[Cubit HQ](https://cubit.stage4.xyz/)** - closed-source AI financial intelligence platform for founders.
 
-## Notable Projects
+### Developer Tools
 
-### Agentic AI Orchestration Platform
-Engineered an autonomous AI system using LangChain and LangGraph that automates market trend analysis, sentiment analysis, and GTM strategy generation for a Fortune 100 client. Improved forecast accuracy by 40% through intelligent agent coordination and retrieval-augmented generation.
+- **[pb](https://github.com/yesabhishek/pastebin-cli)** - local-first pastebin CLI backed by GitHub.
+- **[Cedric](https://github.com/yesabhishek/cedric)** - Python backend scaffolding for humans and coding agents.
 
-### Pyaw - Customer Service RAG Platform
-Built an enterprise RAG-based customer service platform achieving 95% query resolution accuracy. Reduced support ticket volume by 40% by enabling natural language interactions with knowledge bases. Deployed as multi-tenant SaaS (iQ Suite) with integrated billing and user management.
+### Utilities
 
-### Text2SQL Intelligence
-Developed and fine-tuned a production-grade Text2SQL model using PyTorch and Hugging Face that converts natural language to SQL queries with fine-grained access controls. Outperformed existing market solutions by 30% in accuracy and query complexity handling.
+- **[phonecam-bridge](https://github.com/yesabhishek/phonecam-bridge)** - use a phone camera over Wi-Fi and bridge it into Teams/Zoom through OBS.
 
-### Healthcare Data Pipeline Architecture
-Designed and implemented data pipelines using Python, Snowflake, and Apache Airflow following Medallion architecture principles. Improved data delivery efficiency by 57% while maintaining data lineage tracking and governance standards for clinical trial operations.
+## GitHub Activity
 
-### High-Volume Fintech Platform
-Led development of B2B healthcare/fintech platform handling 100K+ daily transactions for 1M+ users. Architected real-time data synchronization using Django, RabbitMQ, and Celery achieving 98% data accuracy. Implemented OCR/NLP pipeline for insurance policy summaries with 80% accuracy in under 5 seconds.
+![GitHub Contribution Graph](https://ghchart.rshah.org/yesabhishek)
 
-## Professional Experience
+## Latest Writing
 
-**Senior Software Development Engineer** at ValueLabs  
-Leading backend engineering team and delivering AI-driven healthcare solutions for pharmaceutical giants.
+[The Backend Show](https://yesabhishek.substack.com)
 
-**Senior Software Development Engineer** at Blue Hex Software  
-Built RAG platforms and AI/ML solutions for global clients including Intel, Nokia, Maersk, and Royal Enfield.
+- **[The Real Architecture Behind Production AI Agents](https://yesabhishek.substack.com/p/the-real-architecture-behind-production)**
+- **[Building a GitHub Backed Pastebin CLI in Go](https://yesabhishek.substack.com/p/building-a-github-backed-pastebin)**
+- **[Retrieval Augmented Generation (RAG 101)](https://yesabhishek.substack.com/p/retrieval-augmented-generation)**
+- **[Why We Built (and Killed) Describe AI](https://yesabhishek.substack.com/p/vscode-extenstion-and-rise-of-ai)**
+- **[How We Turned Dumb CCTV Footage into a Smart API](https://yesabhishek.substack.com/p/computer-vision-and-incident-tracking)**
 
-**Software Development Engineer** at Bima Garage  
-Architected fintech infrastructure handling millions of users and transactions with real-time processing capabilities.
+## Stack
 
-## Certifications
-
-- Snowflake Associate Certification (2025-2027)
-- AWS Cloud Practitioner (2023-2026)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-121212?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![vLLM](https://img.shields.io/badge/-vLLM-5A45FF?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 ## Connect
 
-- Website: [abhishekchoudhury.in](https://abhishekchoudhury.in)
-- LinkedIn: [linkedin.com/in/yesabhishek](https://linkedin.com/in/yesabhishek)
-- Email: choudhuryabhishek76@gmail.com
-
----
-
-I believe in building software that scales technically and creates measurable business impact. Currently exploring opportunities at the intersection of AI, data engineering, and distributed systems. Open to collaborating on interesting problems.
+[Website](https://www.abhishekchoudhury.com) · [LinkedIn](https://linkedin.com/in/yesabhishek) · [Email](mailto:choudhuryabhishek76@gmail.com)
